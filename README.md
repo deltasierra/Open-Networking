@@ -96,6 +96,10 @@ Joint Solutions Brief
 
 https://www.dell.com/learn/us/en/04/shared-content~data-sheets~en/documents~joint_solution_brief_dell-and_big_switch_networks_open_networking.pdf
 
+Landing Page 
+
+http://bigswitch.com/partner/dell-strategic-partnership
+
 ## Learn
 ( Demos, Webinars, Partners, Events ) ( F5, FireEye, NSX, OpenStack, TFD’s, etc. )
 
@@ -112,6 +116,10 @@ http://www.bigswitch.com/videos/ceo-vision
 Big Switch Architecture - Disaggregating Netframes (video)
 
 http://www.bigswitch.com/videos/the-big-switch-architecture-disaggregating-netframes
+
+Enterprise Strategy Group (ESG) Hands on Report 
+
+http://en.community.dell.com/dell-blogs/dell4enterprise/b/dell4enterprise/archive/2015/10/12/hands-on-report-open-networking-approach-to-modern-hyperscale-data-center
 
 ## VMware Integration
 BCF Integration with VMware
