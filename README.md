@@ -7,7 +7,7 @@ http://cumulusnetworks.com/media/cumulus/pdf/misc/Solution-Overview-Dell-Cumulus
 
 Joint Solution Brief
 
-http://www.dell.com/en-us/work/learn/assets/shared-content~data-sheets~en/documents~joint_solution_brief_dell_and_cumulus_open_networking.pdf
+https://www.dell.com/learn/us/en/555/business~solutions~en/documents~dell-and-cumulus-networks-solution-brief.pdf
 
 Landing Page
 
@@ -32,7 +32,7 @@ http://cumulusnetworks.com/solutions/
 
 Cumulus Linux 101
 
-https://support.cumulusnetworks.com/hc/en-us/articles/201787686-Cumulus-Linux-Lab-Guides
+https://support.cumulusnetworks.com/hc/en-us/article_attachments/201363687/CL-101.pdf
 
 Intro Technical Videos
 
@@ -64,6 +64,10 @@ Dell Hardware Open Networking Workbench
 
 http://cumulusnetworks.com/dell-workbench/
 
+Cumulus Networks, Dell and Red Hat’s 300+ Node OpenStack Pod - Behind the Scenes Video
+
+https://www.youtube.com/watch?v=VXdYB0Xm1Ak
+
 Demos and Training
 
 https://support.cumulusnetworks.com/hc/en-us/categories/200250948-Demos-and-Training
@@ -73,9 +77,9 @@ CumulusVX and Vagrant
 
 http://docs.cumulusnetworks.com/display/VX/Using+Cumulus+VX+with+Vagrant
 
-Cumulus VX Lab Guidelines
+Introduction to Cumulus VX Lab Guide
 
-https://support.cumulusnetworks.com/hc/en-us/articles/201787686-Introduction-to-Cumulus-VX-Lab-Guide
+https://support.cumulusnetworks.com/hc/en-us/articles/201787686-Cumulus-Linux-Lab-Guides
 
 CumulusVX Demo - Blog
 
@@ -96,14 +100,14 @@ Joint Solutions Brief
 
 https://www.dell.com/learn/us/en/04/shared-content~data-sheets~en/documents~joint_solution_brief_dell-and_big_switch_networks_open_networking.pdf
 
-Landing Page 
+Landing Page
 
 http://bigswitch.com/partner/dell-strategic-partnership
 
 ## Learn
 ( Demos, Webinars, Partners, Events ) ( F5, FireEye, NSX, OpenStack, TFD’s, etc. )
 
-http://www.bigswitch.com/videos 
+http://www.bigswitch.com/videos
 
 White Papers and Use Cases
 
@@ -117,7 +121,7 @@ Big Switch Architecture - Disaggregating Netframes (video)
 
 http://www.bigswitch.com/videos/the-big-switch-architecture-disaggregating-netframes
 
-Enterprise Strategy Group (ESG) Hands on Report 
+Enterprise Strategy Group (ESG) Hands on Report
 
 http://en.community.dell.com/dell-blogs/dell4enterprise/b/dell4enterprise/archive/2015/10/12/hands-on-report-open-networking-approach-to-modern-hyperscale-data-center
 
@@ -167,7 +171,7 @@ Dell Announcement
 
 http://en.community.dell.com/dell-blogs/dell4enterprise/b/dell4enterprise/archive/2015/06/11/dell-keeps-up-the-open-networking-momentum-with-plug-n-play-sdn-network-fabrics
 
-Joint Solutions Brief 
+Joint Solutions Brief
 
 https://www.dell.com/learn/us/en/555/business~solutions~en/documents~dell-and-pluribus-networks-solution-brief.pdf
 
