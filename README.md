@@ -1,6 +1,7 @@
-# Official Dell Open Networking Wiki
+# Official Dell-EMC Open Networking Wiki
 
-http://en.community.dell.com/techcenter/networking/w/wiki/7463.dell-open-networking 
+http://en.community.dell.com/techcenter/networking/w/wiki/7463.dell-open-networking
+
 
 # Dell Open Networking Partner Links
 # Cumulus Linux
